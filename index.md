@@ -1,7 +1,3 @@
 ---
 #cool page
 ---
-theme: minima
-title: laterduck's personal blog
-description: This is where I share cool stuff about my life
-author: laterduck
